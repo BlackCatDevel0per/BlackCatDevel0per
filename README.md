@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlackCatDevel0per&show_icons=true&include_all_commits=true&theme=merko" />
+![User's GitHub activity stats](https://github-readme-stats.vercel.app/api?username=BlackCatDevel0per&show_icons=true&include_all_commits=true&theme=merko)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCatDevel0per&size_weight=0.5&count_weight=0.5&hide=C,Assembly,Makefile,Perl,Roff,SmPL,Yacc,css,Inno%20Setup,Dockerfile,Batchfile&langs_count=10" />
+![User's GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCatDevel0per&size_weight=0.5&count_weight=0.5&hide=C,Assembly,Makefile,Perl,Roff,SmPL,Yacc,css,Inno%20Setup,Dockerfile,Batchfile&langs_count=10&theme=merko)
